@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgAttentionInternet.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bgAttentionIdle0000" x="0" y="0" width="404" height="272"/>
+	<SubTexture name="bgAttentionIdle0001" x="404" y="0" width="403" height="272" frameX="-1" frameY="0" frameWidth="404" frameHeight="272"/>
+	<SubTexture name="bgAttentionIdle0002" x="0" y="272" width="403" height="272" frameX="-1" frameY="0" frameWidth="404" frameHeight="272"/>
+</TextureAtlas>
