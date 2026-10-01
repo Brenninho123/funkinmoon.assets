@@ -11,7 +11,7 @@
 
 	<box width="100%" height="100%">
 	<vbox id="browserPanel" width="100%" height="100%" style="padding: 10px 14px; spacing: 8px;">
-		<tabview width="100%" height="100%">
+		<tabview id="browserTabs" width="100%" height="100%">
 			<box text="Rooms" width="100%" height="100%">
 				<hbox width="100%" height="100%" style="padding: 8px; spacing: 14px;">
 					<vbox width="62%" height="100%" style="spacing: 6px;">
